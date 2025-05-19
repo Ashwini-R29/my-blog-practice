@@ -1,1 +1,17 @@
 /* Main stylesheet */ 
+.subscribe-button {
+  background-color: #ff6600;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+
+.subscribe-button:hover {
+  background-color: #e65c00;
+}
+
+body.dark-theme {
+  background-color: #121212;
+  color: #f0f0f0;
+}
